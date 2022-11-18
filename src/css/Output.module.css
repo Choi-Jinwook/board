@@ -1,0 +1,14 @@
+.container {
+  min-width: 500px;
+  margin: 0 25%;
+}
+
+.commentContainer {
+  min-width: 500px;
+  margin: 0 25%;
+}
+
+.childCommentContainer {
+  min-width: 500px;
+  margin: 0 5%;
+}

@@ -1,0 +1,55 @@
+.container {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin: 0 20%;
+}
+
+.tr {
+  min-width: 550px;
+  border-top: 1px solid;
+  border-collapse: collapse;
+}
+
+.id {
+  width: 50px;
+  text-align: center;
+  border-bottom: 0.5px solid gray;
+}
+
+.title {
+  width: 200px;
+  border-bottom: 0.5px solid gray;
+}
+
+.comments {
+  width: 32px;
+  text-align: center;
+  border-bottom: 0.5px solid gray;
+}
+
+.authorNickname {
+  width: 100px;
+  text-align: center;
+  border-bottom: 0.5px solid gray;
+}
+
+.likes {
+  width: 35px;
+  text-align: center;
+  border-bottom: 0.5px solid gray;
+}
+
+.background {
+  font-size: small;
+  background-color: rgb(230, 230, 230);
+}
+
+.fontsize {
+  height: 25px;
+  font-size: smaller;
+}
+
+.trHeight {
+  height: 30px;
+}

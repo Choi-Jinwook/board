@@ -1,0 +1,61 @@
+.inputTitle {
+  width: 460px;
+  height: 20px;
+}
+
+.inputContent {
+  width: 462px;
+  height: 300px;
+}
+
+.inputComment {
+  width: 495px;
+  height: 100px;
+}
+
+.lineChange {
+  white-space: pre-wrap;
+}
+
+.loginText {
+  width: 200px;
+  height: 20px;
+}
+
+.container {
+  display: inline-flex;
+  justify-content: flex-end;
+  min-width: 700px;
+}
+
+.header {
+  text-align: center;
+}
+
+.login {
+  display: flex;
+  min-width: auto;
+}
+
+.commentDiv {
+  min-width: 500px;
+  margin: 0 25%;
+}
+
+.articleComment {
+  width: 494px;
+  height: 80px;
+}
+
+.articleContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.commentFontsize {
+  font-size: 13px;
+}
+
+.bigCommentDiv {
+  min-width: 500px;
+}
